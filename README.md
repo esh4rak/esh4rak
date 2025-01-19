@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/eshrak_a4" target="blank"><img src="https://img.shields.io/twitter/follow/eshrak_a4?logo=twitter&style=for-the-badge" alt="eshrak_a4" /></a> </p>
 
-- 🔭 I’m currently working on [LifePlus Bangladesh](https://play.google.com/store/apps/details?id=com.lifeplusbd.user)
+- 🔭 I’m currently working on [Computer Ease Limited](https://celimited.com/)
 
 - 📫 How to reach me **eshrak.sea4@gmail.com**
 
